@@ -3,10 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-<!-- Banner image -->
-<p align="center">
-  <img src="assets/header.png" alt="Curated MCP Servers Banner" width="800"/>
-</p>
 
 
 <p align="center"><strong>Discover trending and innovative Model Context Protocol servers</strong></p>
