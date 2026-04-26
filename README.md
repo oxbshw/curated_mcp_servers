@@ -68,6 +68,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 | **Video Editing MCP** – [github](https://github.com/burningion/video-editing-mcp) | Add, analyze and generate video edits. | awesome‑mcp‑servers |
 | **Discogs MCP** – [github](https://github.com/cswkim/discogs-mcp-server) | Interact with the Discogs music database. | awesome‑mcp‑servers |
 | **Fal MCP Server** – [github](https://github.com/raveenb/fal-mcp-server) | Generate AI images, videos and music using Fal models. | awesome‑mcp‑servers |
+| **prompt-to-asset** – [github](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Route image generation prompts to 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney) via a unified API. | community |
 
 ## AI & Data Tools
 
