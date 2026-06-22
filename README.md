@@ -113,6 +113,7 @@ The following servers are maintained by companies and organisations providing pr
 | **AgentOps** – [github](https://github.com/AgentOps-AI/agentops-mcp) | Provide observability and tracing for debugging AI agents using the AgentOps API. | modelcontextprotocol/servers |
 | **AgentQL (tinyfish‑io)** – [github](https://github.com/tinyfish-io/agentql-mcp) | Enable AI agents to extract structured data from unstructured web content. | modelcontextprotocol/servers |
 | **Aiven** – [github](https://github.com/Aiven-Open/mcp-aiven) | Navigate Aiven projects and interact with PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services. | modelcontextprotocol/servers |
+| **NotFair** – [github](https://github.com/nowork-studio/toprank) | Google Ads MCP server. Diagnose campaign performance (CPA, ROAS, search-term waste, quality scores), recommend optimizations (bids, budgets, negatives, ad copy), and execute approved changes via the Google Ads API with a built-in human-approval gate. Hosted, streamable-HTTP at notfair.co. | nowork-studio |
 
 ## Full List
 
