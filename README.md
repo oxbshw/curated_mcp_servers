@@ -83,7 +83,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 | **Albus** – [pipedream](https://mcp.pipedream.com/app/albus) | AI‑powered Slack search and web assistant. | Pipedream |
 | **Algomo** – [pipedream](https://mcp.pipedream.com/app/algomo) | Multilingual customer service via generative AI. | Pipedream |
 | **All‑Images.ai** – [pipedream](https://mcp.pipedream.com/app/all_images_ai) | Generate personalized, royalty‑free visuals for projects. | Pipedream |
-
+| **Xquik MCP** - [github](https://github.com/Xquik-dev/x-twitter-scraper) | X automation platform with a hosted MCP endpoint for search, profile lookup, media, monitors and write workflows. | community |
 | **BGPT MCP** – [github](https://github.com/connerlambden/bgpt-mcp) | Search scientific papers with full‑text experimental data via hosted MCP server. | awesome‑mcp‑servers |
 ## Finance & Crypto
 
