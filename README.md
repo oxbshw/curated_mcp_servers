@@ -58,6 +58,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 | **4o Image MCP** – [github](https://github.com/antipas/4oimage-mcp) | Connect to the 4o‑image API for generating and editing images. | mcp‑servers‑hub |
 | **A11y MCP** – [github](https://github.com/priyankark/a11y-mcp) | Perform accessibility audits on webpages using axe‑core. | mcp‑servers‑hub |
 | **AnyQuery** – [github](https://github.com/julien040/anyquery) | Query more than 40 apps using SQL with a single binary. | awesome‑mcp‑servers |
+| **sms-florin MCP** – [github](https://github.com/flovoice53-tech/sms-florin-mcp) | Rent a real UK phone number and fetch SMS/OTP codes to test signup and verification flows. | community |
 
 ## Art, Culture & Media
 
