@@ -52,6 +52,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 
 | Server | Description | Source |
 |-------|-------------|--------|
+| **SandBase Harness** – [github](https://github.com/sandbaseai/sandbase-harness) | Self-hosted agent runtime and stdio MCP bridge for sandboxed sessions, MCP tools, approvals, artifacts, audit trails and replay. | community |
 | **1Panel MCP** – [github](https://github.com/1panel-dev/mcp-1panel) | Manage websites, databases, SSL certificates and apps through 1Panel. | mcp‑servers‑hub |
 | **3D Printer MCP** – [github](https://github.com/DMontgomery40/mcp-3D-printer-server) | Interact with 3D printer management systems, manipulate STL files and control printers. | mcp‑servers‑hub |
 | **4o Mini Search MCP** – [github](https://github.com/rebers/4o-mini-search-mcp) | Provides lightweight web search via OpenAI or OpenRouter models. | mcp‑servers‑hub |
