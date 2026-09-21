@@ -89,6 +89,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 
 | Server | Description | Source |
 |-------|-------------|--------|
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. | Remote: `https://statsnet.co/mcp` |
 | **Bankless Onchain** – [github](https://github.com/bankless/onchain-mcp) | Query on‑chain data such as ERC20 tokens, transaction history and smart contract state. | awesome‑crypto |
 | **MagnetAI Free USDC Transfer** – [github](https://github.com/magnetai/mcp-free-usdc-transfer) | Send USDC on Base for free using Claude AI. | awesome‑crypto |
 | **Coin API MCP** – [github](https://github.com/longmans/coin_api_mcp) | Access CoinMarketCap cryptocurrency data. | awesome‑crypto |
