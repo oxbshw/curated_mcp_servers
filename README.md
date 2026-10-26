@@ -89,6 +89,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 
 | Server | Description | Source |
 |-------|-------------|--------|
+| **Agent Payment Node** – [github](https://github.com/nuanu-ai/agent-payment-node) | Local stdio MCP and CLI payment tools for AI agents on macOS Apple Silicon, with owner limits and foreground approval for direct-transfer signing. | Nuanu AI |
 | **Bankless Onchain** – [github](https://github.com/bankless/onchain-mcp) | Query on‑chain data such as ERC20 tokens, transaction history and smart contract state. | awesome‑crypto |
 | **MagnetAI Free USDC Transfer** – [github](https://github.com/magnetai/mcp-free-usdc-transfer) | Send USDC on Base for free using Claude AI. | awesome‑crypto |
 | **Coin API MCP** – [github](https://github.com/longmans/coin_api_mcp) | Access CoinMarketCap cryptocurrency data. | awesome‑crypto |
