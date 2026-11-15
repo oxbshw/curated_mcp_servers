@@ -69,6 +69,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 | **Discogs MCP** – [github](https://github.com/cswkim/discogs-mcp-server) | Interact with the Discogs music database. | awesome‑mcp‑servers |
 | **Fal MCP Server** – [github](https://github.com/raveenb/fal-mcp-server) | Generate AI images, videos and music using Fal models. | awesome‑mcp‑servers |
 | **prompt-to-asset** – [github](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Route image generation prompts to 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney) via a unified API. | community |
+| **No Stairs Please MCP** – [endpoint](https://nostairsplease.com/mcp) | Search small live-music venues across all 50 US states, DC, and British Columbia with load-in, stage, and tour-routing data. | community |
 
 ## AI & Data Tools
 
