@@ -69,6 +69,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 | **Discogs MCP** – [github](https://github.com/cswkim/discogs-mcp-server) | Interact with the Discogs music database. | awesome‑mcp‑servers |
 | **Fal MCP Server** – [github](https://github.com/raveenb/fal-mcp-server) | Generate AI images, videos and music using Fal models. | awesome‑mcp‑servers |
 | **prompt-to-asset** – [github](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Route image generation prompts to 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney) via a unified API. | community |
+| **Vertov MCP** – [docs](https://vertov.app/docs/mcp) | Search recordings, read transcripts and briefs, and upload recordings for share links over Streamable HTTP with OAuth. | community |
 
 ## AI & Data Tools
 
