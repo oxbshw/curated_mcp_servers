@@ -96,6 +96,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 | **CryptoPanic MCP** – [github](https://github.com/kukapay/cryptopanic-mcp-server) | Deliver latest cryptocurrency news from CryptoPanic. | awesome‑crypto |
 | **Dappier MCP** – [github](https://github.com/DappierAI/dappier-mcp) | Connect LLMs to real‑time, rights‑cleared proprietary data such as news, sports and crypto. | awesome‑crypto |
 | **DexPaprika MCP** – [github](https://github.com/coinpaprika/dexpaprika-mcp) | Provide data for 5 million tokens across 20+ blockchain networks. | awesome‑crypto |
+| **FlowFeed MCP** – [github](https://github.com/loyt1/flowfeed-mcp) | Deliver real-time macro, forex and crypto news, an economic calendar and central bank releases (hosted, OAuth, paid). | official |
 | **Whale Tracker MCP** – [github](https://github.com/kukapay/whale-tracker-mcp) | Track large cryptocurrency whale transactions. | awesome‑crypto |
 | **Heurist Mesh Agent MCP** – [github](https://github.com/heurist-network/heurist-mesh-mcp-server) | Access specialized web3 AI agents for blockchain analysis and smart contract security. | awesome‑crypto |
 | **EVM MCP Server** – [github](https://github.com/mcpdotdirect/evm-mcp-server) | Provide blockchain services for 30+ EVM networks, including tokens, NFTs and ENS resolution. | awesome‑crypto |
